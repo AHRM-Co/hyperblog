@@ -6,3 +6,4 @@ Unblog para el curso de platzi
 * Todo git
 * Flujo de trabajo de git
 * Trucos del profesor
+* Inlcuye ejemplos de windiws linux y mac
