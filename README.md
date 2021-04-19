@@ -7,3 +7,4 @@ Unblog para el curso de platzi
 * Flujo de trabajo de git
 * Trucos del profesor
 * Inlcuye ejemplos de windiws linux y mac
+* Disponibles para todas las edades
